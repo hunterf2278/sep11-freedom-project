@@ -7,7 +7,7 @@ const config = {
 
     scene: {
         create: function () {
-            this.add.text(300,250,"Hello World!"),{
+            this.add.text(300,250,"Hello World!",{
                 fontSize:"32px",
                 color:"red",
               });
