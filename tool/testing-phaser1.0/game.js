@@ -1,5 +1,5 @@
 const config = {
-    type: Phaser.AUTO
+    type: Phaser.AUTO,
 
     width:800,
     height:600,
