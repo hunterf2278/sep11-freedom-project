@@ -13,7 +13,10 @@
 * I even added code, such as more text, into  my index.html. However, when I tried to  use http-server it didn't work, so that made me very confused. 
 
 ### 11/7/26:
-* Today I finally got my game to work 
+* Today, my goal was to finally get my game to work. it wasn't working yesterday so I waited until the next day to cd into the repo and do `http-server` again. Thankfully, it worked this time. 
+* However, my background was black when my code stated that it needed to be blue
+* So, first I decided to change my code so that instead of the color being `blue`, it was `#0000ff` which means bright blue in hexadecimal color code.
+* It still didn't work.
 
 
 <!-- 
