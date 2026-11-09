@@ -17,6 +17,9 @@
 * However, my background was black when my code stated that it needed to be blue
 * So, first I decided to change my code so that instead of the color being `blue`, it was `#0000ff` which means bright blue in hexadecimal color code.
 * It still didn't work.
+* So i watched some tutorials and they told me that I should add `this.cameras.main.setBackgroundColor("#0000ff");` into my code  under `create: function ()` and it finally worked.
+* Then i decided to change my width and height to 400 and 300, and it worked. Then I had to change the dimensions in my `this.add.text` code so that it would fit my whole message
+* So I changed it to 100,100 and that worked. 
 
 
 <!-- 

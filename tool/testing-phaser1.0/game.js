@@ -1,13 +1,14 @@
 const config = {
     type: Phaser.AUTO,
 
-    width:800,
-    height:600,
+    width:400,
+    height:300,
     backgroundColor:"#0000ff",
 
     scene: {
         create: function () {
-            this.add.text(300,250,"Hello World!",{
+            this.cameras.main.setBackgroundColor("#0000ff");
+            this.add.text(100,100,"Hello World!",{
                 fontSize:"32px",
                 color: "red",
               });
