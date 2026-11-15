@@ -14,7 +14,7 @@ A few months ago, I was in the first stage of the engineering design process, wh
 ## Skills
 
 ## Summary
-
+In summary, I am very excited to explore kaboom more and start planning what elements to use in order to start creating my fantasy game.
 
 [Next](entry02.md)
 
