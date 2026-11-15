@@ -13,6 +13,8 @@ A few months ago, I was in the first stage of the engineering design process, wh
 
 ## Skills
 
+## Summary
+
 
 [Next](entry02.md)
 
