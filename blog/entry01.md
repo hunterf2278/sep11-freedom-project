@@ -1,7 +1,8 @@
 # Entry 1: Fantasy Game 
 ##### 11/14/26
 
-[kaboom](https://verbose-waddle-p7744945q7926pvv.github.dev/)
+[tinker phaser file](https://verbose-waddle-p7744945q7926pvv.github.dev/)
+[tinkering kaboom file](https://verbose-waddle-p7744945q7926pvv.github.dev/)
 
 
 ## Content 
